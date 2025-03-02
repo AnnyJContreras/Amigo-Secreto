@@ -17,8 +17,8 @@ El proyecto incluye las siguientes funciones:
 
 1. Clone este repositorio en su máquina local.
 2. Abra el archivo `index.html` en su navegador.
-3. En el campo de entrada, escriba el nombre de un amigo y haga clic en "Agregar amigo".
-4. Una vez añadidos todos los amigos, haga clic en "Sortear amigo secreto" para seleccionar aleatoriamente uno de ellos.
+3. En el campo de entrada, escriba el nombre de un amigo y haga clic en "Añadir".
+4. Una vez añadidos todos los amigos, haga clic en "Sortear amigo" para seleccionar aleatoriamente uno de ellos.
 
 
 ¡Diviertete sorteando un amigo secreto! :) 🎁
